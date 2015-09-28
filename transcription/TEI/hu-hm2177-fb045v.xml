@@ -6,6 +6,7 @@
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
     
 </surface>
+<surface>
 <zone type="main">
     <line>Thou art not ... if a thing divine</line>
     <line>Like thee, can die -- thy funeral shrine</line>
@@ -21,4 +22,7 @@
 <zone type="left margin" rotate="90"
     <line><del> rend="strikethrough">Think</del>not gold or flattery vile</line>
     </zone>
-    
+</surface>
+<zone type="library">
+    <line>*45v.</line>
+</zone>
