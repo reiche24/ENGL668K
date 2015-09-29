@@ -6,3 +6,17 @@
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
 </surface>
+<zone type="main">
+    <line>With what truth may I say</line>
+    <line rend="indent1">Roma Roma Roma</line>
+    <line>Non e piu, come era prima</line>
+    <line>
+        <del rend="strikethrough">Ruined creature</del>
+            <add place="superlinear">My lost William</add>
+    thou in whom
+    </line>
+    <line rend="indent1">Some
+        <del rend="strikethrough">sweet</del>
+            <add place="superlinear">bright</add>
+        spirit lived, &amp; did</line>
+</zone>
