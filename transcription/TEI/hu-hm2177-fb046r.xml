@@ -19,4 +19,31 @@
         <del rend="strikethrough">sweet</del>
             <add place="superlinear">bright</add>
         spirit lived, &amp; did</line>
-</zone>
+</zone type="main">
+    <line>That decaying robe consume</line>
+    <line>Which its</line>
+        <del rend="strikethrough">gentle lus</del>
+            <add place="sublinear"></add>lustre faintly</add>
+    <line>hid</line>
+    <del rend="strikethrough">In the Thy remains</del>
+        <line>Here its ashes find a tomb</line>
+        <del rend="strikethrough">Under</del>
+            <add place="superlinear">But be</add>
+        <line>neath this pyramid</line>
+<space dim="vertical" unit="lines" extent="1"/>
+        <line rend="indent1"></line>
+        <line>del rend="strikethrough">Lie thy bones - if thou canst die</del>
+        <line>Rest thy bones- there is a shrine</line>
+        <line>Fr[om] thy</line>
+        <space dim="vertical" unit="lines" extent="1"/>
+<line>Where art though</line>
+<del rend="strikethrough">gone</del>
+<line>my gentle</line>
+<add place="superlinear">child</add>
+<del rend="strikethrough">boy</del>
+<line rend="indent1"><del rend="strikethrough">Dissolved intothethe living weeds</del>
+<del rend=strikethrough">Whose Child I</del>
+<add place="superlinear">Let me</del>
+<line>think my spirit feeds</line>
+<line>Within it's </del>
+        
