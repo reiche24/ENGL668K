@@ -13,12 +13,11 @@
     <line><del rend="strikethrough">Ruined creature</del><add place="superlinear">My lost William</add> thou in whom </line>
     <line rend="indent1">Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived, &amp; did</line>
     <line>That decaying robe consume</line>
-    <line>Which its</line><del rend="strikethrough">gentle lus</del>
-            <add place="sublinear"></add>lustre faintly</add> hid</line>
-    <del rend="strikethrough">In the Thy remains</del>Here its ashes find a tomb</line>
+    <line>Which its<del rend="strikethrough">gentle lus</del><add place="sublinear"></add>lustre faintly</add> hid</line>
+    <del rend="strikethrough">In the Thy remains</del>
+    Here its ashes find a tomb</line>
         <del rend="strikethrough">Under</del>
-            <add place="superlinear">But be</add>
-        <line>neath this pyramid</line>
+            <add place="superlinear">But be</add>neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="1"/>
         <line rend="indent1"></line>
         <line>del rend="strikethrough">Lie thy bones - if thou canst die</del>
