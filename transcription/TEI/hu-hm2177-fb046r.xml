@@ -10,23 +10,12 @@
     <line>With what truth may I say</line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
-    <line>
-        <del rend="strikethrough">Ruined creature</del>
-            <add place="superlinear">My lost William</add>
-    thou in whom
-    </line>
-    <line rend="indent1">Some
-        <del rend="strikethrough">sweet</del>
-            <add place="superlinear">bright</add>
-        spirit lived, &amp; did</line>
-</zone type="main">
+    <line><del rend="strikethrough">Ruined creature</del><add place="superlinear">My lost William</add> thou in whom </line>
+    <line rend="indent1">Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived, &amp; did</line>
     <line>That decaying robe consume</line>
-    <line>Which its</line>
-        <del rend="strikethrough">gentle lus</del>
-            <add place="sublinear"></add>lustre faintly</add>
-    <line>hid</line>
-    <del rend="strikethrough">In the Thy remains</del>
-        <line>Here its ashes find a tomb</line>
+    <line>Which its</line><del rend="strikethrough">gentle lus</del>
+            <add place="sublinear"></add>lustre faintly</add> hid</line>
+    <del rend="strikethrough">In the Thy remains</del>Here its ashes find a tomb</line>
         <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>
         <line>neath this pyramid</line>
@@ -36,9 +25,7 @@
         <line>Rest thy bones- there is a shrine</line>
         <line>Fr[om] thy</line>
         <space dim="vertical" unit="lines" extent="1"/>
-<line>Where art though</line>
-    <del rend="strikethrough">gone</del>
-        <line>my gentle</line>
+<line>Where art though</line><del rend="strikethrough">gone</del>my gentle</line>
             <add place="superlinear">child</add>
                 <del rend="strikethrough">boy</del>
 <line rend="indent1"><del rend="strikethrough">Dissolved intothethe living weeds</del>
