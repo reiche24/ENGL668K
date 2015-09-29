@@ -37,13 +37,27 @@
         <line>Fr[om] thy</line>
         <space dim="vertical" unit="lines" extent="1"/>
 <line>Where art though</line>
-<del rend="strikethrough">gone</del>
-<line>my gentle</line>
-<add place="superlinear">child</add>
-<del rend="strikethrough">boy</del>
+    <del rend="strikethrough">gone</del>
+        <line>my gentle</line>
+            <add place="superlinear">child</add>
+                <del rend="strikethrough">boy</del>
 <line rend="indent1"><del rend="strikethrough">Dissolved intothethe living weeds</del>
-<del rend=strikethrough">Whose Child I</del>
-<add place="superlinear">Let me</del>
-<line>think my spirit feeds</line>
-<line>Within it's </del>
+    <del rend=strikethrough">Whose Child I</del>
+        <add place="superlinear">Let me</del>
+            <line>think my spirit feeds</line>
+<line>Within its </line>
+    <del rend=strikethrough"<young></del>
+        <add place="superlinear">small</add><del rend="strikethrough">/line>
+            <del rend="strikethrough">?</del>
+                <line>life intense</line>
+                <add place="superlinear">and mild</add>
+    <line>The</line>
+    <del rend="strikethrough">grass living</del>
+        <add place="superlinear">love</add>
+            <line>of living</line>
+                <del rend="strikethrough">flowers</del>
+                    <add place="superlinear">leaves</add>
+                    <add place="sublinear">and weeds</add>
+        <line>Among these tombs and ruins wild </line>
+ <line rend="indent1"><del rend="strikethrough"<could I believe that></del>        
         
