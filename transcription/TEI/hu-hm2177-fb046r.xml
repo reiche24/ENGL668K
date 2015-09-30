@@ -8,10 +8,10 @@
 </surface>
 <zone type="main">
     <line>With what truth may I say</line>
-    <line rend="indentone">Roma Roma Roma</line>
+    <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
     <line><del rend="strikethrough">Ruined creature</del><add place="superlinear">My lost William</add> thou in whom </line>
-    <line rend="indentone">Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived, &amp; did</line>
+    <line rend="indent1">Some <del rend="strikethrough">sweet</del><add place="superlinear">bright</add>spirit lived, &amp; did</line>
     <line>That decaying robe consume</line>
     <line>Which its<del rend="strikethrough">gentle lus</del><add place="sublinear"></add>lustre faintly</add> hid</line>
     <del rend="strikethrough">In the Thy remains</del>
@@ -19,18 +19,17 @@
         <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="1"/>
-        <line rend="indentone"></line>
+        <line rend="indent1"></line>
         <line>del rend="strikethrough">Lie thy bones - if thou canst die</del>
         <line>Rest thy bones- there is a shrine</line>
         <line>Fr[om] thy</line>
         <space dim="vertical" unit="lines" extent="1"/>
-<line>Where art though</line><del rend="strikethrough">gone</del>my gentle</line>
+<line>Where art though<del rend="strikethrough">gone</del>my gentle</line>
             <add place="superlinear">child</add>
                 <del rend="strikethrough">boy</del>
-<line rend="indentone"><del rend="strikethrough">Dissolved intothethe living weeds</del>
+<line rend="indent1"><del rend="strikethrough">Dissolved intothethe living weeds</del>
     <del rend=strikethrough">Whose Child I</del>
-        <add place="superlinear">Let me</del>
-            <line>think my spirit feeds</line>
+        <add place="superlinear">Let me</add>think my spirit feeds</line>
 <line>Within its </line>
     <del rend=strikethrough"<young></del>
         <add place="superlinear">small</add><del rend="strikethrough">/line>
@@ -45,5 +44,5 @@
                     <add place="superlinear">leaves</add>
                     <add place="sublinear">and weeds</add>
         <line>Among these tombs and ruins wild </line>
- <line rend="indentone"><del rend="strikethrough"<could I believe that></del>  
+ <line rend="indent1"><del rend="strikethrough"<could I believe that></del>  
  </zone>
