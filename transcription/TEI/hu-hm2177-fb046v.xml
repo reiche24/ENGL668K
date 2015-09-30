@@ -4,5 +4,23 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    
+<zone type="main">
+  <line>Originality does not await</line>
+  <line><del rend="strikethrough">In words it comes or stories</del></line>
+  <line>Or combinations of meter and</line>
+  <line>Language different from those</line>
+  <line>Which have you<unclear reason="illegible" extent="5" unit="chars"></unclear></line>
+  <line>Does not comist only is<unclear reason="illegible" extent="5" unit="chars"></unclear></line>
+  <line> A<unclear reason="illegible" extent="10" unit="chars"></unclear></line>
+</zone>
+<space dim="vertical" unit="lines" extent="1"/>
+<zone type="bottom" rotate="180">
+  <line><del rend="strikethrough">A melancholy gladness</del></line>
+  <line>Let me think that this<unclear reason="illegible" extent="6" unit="chars"></unclear></line>
+  <line>Of the<del rend="strikethrough">living</del><unclear reason="illegible" extent="8" unit="chars"></unclear></line>
+  <line rend="indent4"><unclear reason="illegible" "extent="4" unit="words"></unclear></line>
+  <line><del rend="strikethrough">An unknown horror may</del></line>
+  <line><unclear reason="illegible" extent="3" unit="chars"></unclear>these<unclear reason="illegible" extent="3" units="chars"></unclear>of saints may help</line>
+  <line>A portion</line>
+</zone>
 </surface>
