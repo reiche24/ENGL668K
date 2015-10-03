@@ -8,6 +8,7 @@
 <zone type="library">
     <line>*45v.</line>
 </zone>
+<space dim="vertical" unit="lines" extent="3"/>
 <zone type="left_margin" rotate="90">
     <line><del rend="strikethrough">Think not gold or</del>flattery vile</line>
 </zone>
@@ -20,7 +21,7 @@
         <add place="superlinear">heart</add>
         &amp; mine
     </line>
-    <space dim="vertical" unit="lines" extent="1"/>
+    <space dim="vertical" unit="lines" extent="5"/>
         <line>
             <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
         </line>
