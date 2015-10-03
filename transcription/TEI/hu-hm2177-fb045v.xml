@@ -8,20 +8,21 @@
 <zone type="library">
     <line>*45v.</line>
 </zone>
+<zone type="left_margin" rotate="90">
+    <line><del rend="strikethrough">Think not gold or</del>flattery vile</line>
+</zone>
 <zone type="main">
     <line>Thou art not ... if a thing divine</line>
     <line>Like thee, can die -- thy funeral shrine</line>
     <line>Is thy mother's
         <del rend="strikethrough">heart</del>
         <add place="sublinear">grief</add>
+        <add place="superlinear">heart</add>
         &amp; mine
     </line>
     <space dim="vertical" unit="lines" extent="1"/>
         <line>
             <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
         </line>
-</zone>
-<zone type="left_margin" rotate="90">
-    <line><del rend="strikethrough">Thinknot gold or</del>flattery vile</line>
 </zone>
 </surface>
