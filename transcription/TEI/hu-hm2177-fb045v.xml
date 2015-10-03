@@ -8,11 +8,11 @@
 <zone type="library">
     <line>*45v.</line>
 </zone>
-<space dim="vertical" unit="lines" extent="5"/>
 <zone type="left_margin" rotate="90">
     <line><del rend="strikethrough">Think not gold or</del>flattery vile</line>
 </zone>
 <zone type="main">
+    <space dim="vertical" unit="lines" extent="5"/>
     <line>Thou art not ... if a thing divine</line>
     <line>Like thee, can die -- thy funeral shrine</line>
     <line>Is thy mother's
@@ -23,7 +23,7 @@
     </line>
 </zone>
 <zone>
-    <space dim="vertical" unit="lines" extent="5"/>
+    <space dim="vertical" unit="lines" extent="10"/>
         <line>
             <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
         </line>
