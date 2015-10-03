@@ -22,7 +22,7 @@
         &amp; mine
     </line>
 </zone>
-<zone>
+<zone type="main">
     <space dim="vertical" unit="lines" extent="10"/>
         <line>
             <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
