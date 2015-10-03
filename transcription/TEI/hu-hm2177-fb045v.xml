@@ -14,10 +14,8 @@
         <del> rend="strikethrough">heart</del>
         <add> place="sublinear">grief</add>
         &amp; mine</line>
-</zone>
-<space> dim="vertical" unit="lines" extent="1"</space>
-<zone>
-    <line><unclear reason="foreign">Greek Characters</unclear></line>
+            <space> dim="vertical" unit="lines" extent="1"</space>
+                <line><unclear reason="foreign">Greek Characters</unclear></line>
 </zone>
 <zone type="left margin" rotate="90"
     <line><del> rend="strikethrough">Think</del>not gold or flattery vile</line>
