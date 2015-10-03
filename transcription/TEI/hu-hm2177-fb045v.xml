@@ -11,11 +11,14 @@
     <line>Thou art not ... if a thing divine</line>
     <line>Like thee, can die -- thy funeral shrine</line>
     <line>Is thy mother's
-        <del> rend="strikethrough">heart</del>
-        <add> place="sublinear">grief</add>
-        &amp; mine</line>
-            <space dim="vertical" unit="lines" extent="1"/>
-                <line><unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear></line>
+        <del rend="strikethrough">heart</del>
+        <add place="sublinear">grief</add>
+        &amp; mine
+    </line>
+    <space dim="vertical" unit="lines" extent="1"/>
+        <line>
+            <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
+        </line>
 </zone>
 <zone type="left margin" rotate="90">
     <line><del rend="strikethrough">Think</del>not gold or flattery vile</line>
