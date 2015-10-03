@@ -14,12 +14,12 @@
         <del> rend="strikethrough">heart</del>
         <add> place="sublinear">grief</add>
         &amp; mine</line>
-            <space> dim="vertical" unit="lines" extent="1"</space>
-                <line><unclear reason="foreign">Greek Characters</unclear></line>
+            <space dim="vertical" unit="lines" extent="1"/>
+                <line><unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear></line>
 </zone>
-<zone type="left margin" rotate="90"
-    <line><del> rend="strikethrough">Think</del>not gold or flattery vile</line>
-    </zone>
+<zone type="left margin" rotate="90">
+    <line><del rend="strikethrough">Think</del>not gold or flattery vile</line>
+</zone>
 <zone type="library">
     <line>*45v.</line>
 </zone>
