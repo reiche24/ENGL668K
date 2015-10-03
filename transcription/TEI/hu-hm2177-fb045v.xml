@@ -7,8 +7,8 @@
 
 <zone type="library">
     <line>*45v.</line>
-<space dim="vertical" unit="lines" extent="3"/>
 </zone>
+<space dim="vertical" unit="lines" extent="5"/>
 <zone type="left_margin" rotate="90">
     <line><del rend="strikethrough">Think not gold or</del>flattery vile</line>
 </zone>
