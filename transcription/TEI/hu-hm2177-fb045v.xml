@@ -21,8 +21,6 @@
         <add place="superlinear">heart</add>
         &amp; mine
     </line>
-</zone>
-<zone>
     <space dim="vertical" unit="lines" extent="10"/>
         <line>
             <unclear reason="foreign">μνημη των αγαθωη αει θαλης</unclear>
