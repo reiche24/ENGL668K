@@ -47,7 +47,7 @@
         <add place="superlinear" rend="strikethrough">small</add>
         <del rend="strikethrough">?</del>
         life intense
-        <add place="superlinear">&amp mild</add>
+        <add place="superlinear">&amp; mild</add>
             </line>
     <line>The
         <del rend="strikethrough">grass living</del>
@@ -57,7 +57,7 @@
             <add place="superlinear">leaves</add>
             <add place="sublinear">and weeds</add>
             </line>
-        <line>Among these tombs &amp ruins wild </line>
+        <line>Among these tombs &amp; ruins wild </line>
  <line rend="indent1"><del rend="strikethrough"<could I believe that></del>  
  </zone>
  </surface>
