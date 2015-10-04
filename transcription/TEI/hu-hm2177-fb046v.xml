@@ -16,7 +16,12 @@
 <space dim="vertical" unit="lines" extent="1"/>
   <line><del rend="strikethrough">A melancholy gladness</del></line>
   <line>Let me think that thro low seeds</line>
-  <line>Of the<del rend="strikethrough">living</del><add place="sublinear">sweet</add><del rend="strikethrough">breathing</del><add place="sublinear">flowers &amp; sunny grass</add></line>
+  <line>Of the
+    <mod>
+    <del rend="strikethrough">living</del>
+    <add place="sublinear">sweet</add>
+    <del rend="strikethrough">breathing</del>
+    <add place="sublinear">flowers &amp; sunny grass</add></mod></line>
   <line><del rend="strikethrough">An unknown power may</del></line>
   <line>Into these hues &amp; scents may pass</line>
   <line>A portion</line>
