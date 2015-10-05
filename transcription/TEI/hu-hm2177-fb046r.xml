@@ -21,10 +21,9 @@
     <line rend="indent3"><del rend="strikethrough">Under</del><add place="superlinear">But be</add>
             neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="3"/>
-    <line rend="indent4"><del rend="strikethrough">Lie thy bones - if thou canst die</del>
-            </line>
+    <line rend="indent4"><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
         <line>Rest thy bones- there is a shrine</line>
-        <line>Fr[om] thy</line>
+        <line>Fr[om] thy<add place="superlinear"><metamark function="separate">_____________</metamark></line></add></line>
 <space dim="vertical" unit="lines" extent="3"/>
     <line>Where art though<del rend="strikethrough">gone</del>my gentle
         <add place="superlinear">child</add>
@@ -43,8 +42,8 @@
         life intense
         <add place="superlinear">&amp; mild</add>
             </line>
-    <line>The <del rend="strikethrough">grass living</del><add place="superlinear">love</add>of living <del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
+    <line>The<del rend="strikethrough">grass living</del><add place="superlinear">love</add>of living><del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
         <line>Among these tombs amp; ruins wild </line>
- <line rend="indent1"><del rend="strikethrough"</del>could I believe that></del>  
+ <line><line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
  </zone>
  </surface>
