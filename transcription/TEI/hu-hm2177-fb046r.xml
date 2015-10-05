@@ -6,10 +6,10 @@
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
 <zone type="main">
-    <line>With what truth may I say</line>
+<line> With what truth may I say </line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
-    <line><mod><del rend="strikethrough">Ruined</del></mod><mod><delt rend="strikethrough">creature</del></mod>
+    <line><mod><del rend="strikethrough">Ruined</del></mod><mod><del rend="strikethrough">creature</del></mod>
         <mod><add place="superlinear">My lost William,</add></mod>thou in whom</line>
     <line rend="indent1">Some<del rend="strikethrough">sweet</del><mod>
         <add place="superlinear">bright</add>spirit lived, &amp; did</mod></line>
@@ -23,7 +23,7 @@
 <space dim="vertical" unit="lines" extent="3"/>
     <line rend="indent4"><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
         <line>Rest thy bones- there is a shrine</line>
-        <line>Fr[om] thy<add place="superlinear"><metamark function="separate">_____________</metamark></line></add></line>
+        <line>Fr[om] thy<add place="superlinear"><metamark function="insert">_____________</metamark></add></line>
 <space dim="vertical" unit="lines" extent="3"/>
     <line>Where art though<del rend="strikethrough">gone</del>my gentle
         <add place="superlinear">child</add>
@@ -42,8 +42,8 @@
         life intense
         <add place="superlinear">&amp; mild</add>
             </line>
-    <line>The<del rend="strikethrough">grass living</del><add place="superlinear">love</add>of living><del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
-        <line>Among these tombs amp; ruins wild </line>
- <line><line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
+    <line>The <del rend="strikethrough"> grass living</del><add place="superlinear">love</add>of living<del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
+<line>Among these tombs &amp; ruins wild </line>
+ <line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
  </zone>
  </surface>
