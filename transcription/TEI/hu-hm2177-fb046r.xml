@@ -9,25 +9,19 @@
     <line>With what truth may I say</line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
-    <line><del rend="strikethrough">Ruined creature</del>
-        <add place="superlinear">My lost William</add> 
-            thou in whom </line>
-    <line rend="indent1">Some <del rend="strikethrough">sweet</del>
-        <add place="superlinear">bright</add>
-            spirit lived, &amp; did</line>
-    <line>That decaying robe consume</line>
-    <line>Which its<del rend="strikethrough">gentle lus</del>
-        <add place="superlinear">
-            lustre faintly</add> 
-                hid</line>
-    <line><del rend="strikethrough">In the Thy remains</del>
-        Here its ashes find a tomb</line>
-    <line><del rend="strikethrough">Under</del>
-        <add place="superlinear">But be</add>
+    <line><mod><del rend="strikethrough">Ruined</del></mod><mod><delt rend="strikethrough">creature</del></mod>
+        <mod><add place="superlinear">My lost William,</add></mod>thou in whom</line>
+    <line rend="indent1">Some<del rend="strikethrough">sweet</del><mod>
+        <add place="superlinear">bright</add>spirit lived, &amp; did</mod></line>
+    <line rend="indent1">That decaying robe consume</line>
+    <line rend="indent2">Which its<del rend="strikethrough">gentle lus</del>
+        <add place="superlinear">lustre faintly</add>hid</line>
+    <line rend="indent1"><del rend="strikethrough">In the</del><del rend="strikethrough">Thy remains</del></line>
+    <line rend="indent2">Here its ashes find a tomb</line>
+    <line rend="indent3"><del rend="strikethrough">Under</del><add place="superlinear">But be</add>
             neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="3"/>
-    <line rend="indent1">
-        <del rend="strikethrough">Lie thy bones - if thou canst die</del>
+    <line rend="indent4"><del rend="strikethrough">Lie thy bones - if thou canst die</del>
             </line>
         <line>Rest thy bones- there is a shrine</line>
         <line>Fr[om] thy</line>
@@ -49,15 +43,8 @@
         life intense
         <add place="superlinear">&amp; mild</add>
             </line>
-    <line>The
-        <del rend="strikethrough">grass living</del>
-            <add place="superlinear">love</add>
-            of living
-            <del rend="strikethrough">flowers</del>
-            <add place="superlinear">leaves</add>
-            <add place="sublinear">and weeds</add>
-            </line>
-        <line>Among these tombs &amp; ruins wild </line>
- <line rend="indent1"><del rend="strikethrough"<could I believe that></del>  
+    <line>The <del rend="strikethrough">grass living</del><add place="superlinear">love</add>of living <del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
+        <line>Among these tombs amp; ruins wild </line>
+ <line rend="indent1"><del rend="strikethrough"</del>could I believe that></del>  
  </zone>
  </surface>
