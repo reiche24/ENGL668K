@@ -6,7 +6,7 @@
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
 <zone type="main">
-    <line> With what truth may I say </line>
+    <line>With what truth may I say</line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
     <line>
@@ -37,7 +37,7 @@
     </line>
     <line rend="indent2">Here its ashes find a tomb</line>
     <line rend="indent3">
-        <mod/>
+        <mod>
             <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>
         </mod>    
@@ -67,15 +67,18 @@
     </line>
     <line rend="indent1">
         <mod>
-            <del rend="strikethrough">Dissolved into thethe living weeds</del>
-            <del rend="strikethrough">Whose Child I</del>
+            <del rend="strikethrough">Dissolved into the living weeds</del>
+        </mod>
+    </line>
+    <line>Whose Child I
+        <mod>
             <add place="superlinear">Let me</add>
         </mod>
     think my spirit feeds
     </line>
     <line>Within its
         <mod>
-            <del rend="strikethrough"<young></del>
+            <del rend="strikethrough">young</del>
             <add place="superlinear" rend="strikethrough">small</add>
             <add place="superlinear">life</add>
             <del rend="strikethrough">?</del>
@@ -85,7 +88,7 @@
             <add place="superlinear">&amp; mild</add>
         </mod>
     </line>
-    <line>The
+        <line>The
         <mod>
             <del rend="strikethrough"> grass living</del>
             <add place="superlinear">love</add>
@@ -104,4 +107,4 @@
         </mod>
     </line> 
 </zone>
- </surface>
+</surface>
