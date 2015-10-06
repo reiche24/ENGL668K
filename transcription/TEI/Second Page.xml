@@ -54,6 +54,17 @@
                 <add place="superlinear"><metamark function="insert">_____________</metamark></add>
             </mod>
         </line>
+<space dim="vertical" unit="lines" extent="3"/>
+    <line>Where art though
+        <mod>
+            <del rend="strikethrough">gone</del>
+        </mod>
+        my gentle
+        <mod>
+            <add place="superlinear">child</add>
+            <del rend="strikethrough">boy</del>
+        </mod>
+    </line>
 </zone>
 </surface>
 
