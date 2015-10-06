@@ -16,10 +16,12 @@
     <line>Thou art not ... if a thing divine</line>
     <line>Like thee, can die -- thy funeral shrine</line>
     <line>Is thy mother's
-        <del rend="strikethrough">heart</del>
-        <add place="sublinear">grief</add>
-        <add place="superlinear">heart</add>
-        &amp; mine
+        <mod>
+            <del rend="strikethrough">heart</del>
+            <add place="sublinear">grief</add>
+            <add place="superlinear">heart</add>
+            &amp; mine
+        </mod>
     </line>
 </zone>
 <zone type="main">
