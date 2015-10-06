@@ -23,36 +23,67 @@
         </mod>
     spirit lived, &amp; did</line>
     <line rend="indent1">That decaying robe consume</line>
-    <line rend="indent2">Which its<del rend="strikethrough">gentle lus</del>
-        <add place="superlinear">lustre faintly</add>hid</line>
-    <line rend="indent1"><del rend="strikethrough">In the</del><del rend="strikethrough">Thy remains</del></line>
+    <line rend="indent2">Which its
+        <mod>
+            <del rend="strikethrough">gentle lus</del>
+            <add place="superlinear">lustre faintly</add>
+        </mod>
+    hid</line>
+    <line rend="indent1">
+        <mod>
+            <del rend="strikethrough">In the</del>
+            <del rend="strikethrough">Thy remains</del>
+        </mod>    
+    </line>
     <line rend="indent2">Here its ashes find a tomb</line>
-    <line rend="indent3"><del rend="strikethrough">Under</del><add place="superlinear">But be</add>
-            neath this pyramid</line>
+    <line rend="indent3">
+        <mod/>
+            <del rend="strikethrough">Under</del>
+            <add place="superlinear">But be</add>
+            neath this pyramid
+        </mod>    
+    </line>
 <space dim="vertical" unit="lines" extent="3"/>
-    <line rend="indent4"><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
+    <line rend="indent4">
+        <mod>
+            <del rend="strikethrough">Lie thy bones - if thou canst die</del>
+        </mod>
+    </line>
         <line>Rest thy bones- there is a shrine</line>
-        <line>Fr[om] thy<add place="superlinear"><metamark function="insert">_____________</metamark></add></line>
+        <line>Fr[om] thy
+            <mod>
+                <add place="superlinear"><metamark function="insert">_____________</metamark></add></line>
+            </mod>
 <space dim="vertical" unit="lines" extent="3"/>
-    <line>Where art though<del rend="strikethrough">gone</del>my gentle
-        <add place="superlinear">child</add>
+    <line>Where art though
+        <mod>
+            <del rend="strikethrough">gone</del>
+        </mod>
+        my gentle
+        <mod>
+            <add place="superlinear">child</add>
             <del rend="strikethrough">boy</del>
-                </line>
-<line rend="indent1">
-        <del rend="strikethrough">Dissolved into thethe living weeds</del>
-        <del rend="strikethrough">Whose Child I</del>
-        <add place="superlinear">Let me</add>think my spirit feeds
-        </line>
-<line>Within its
-    <del rend="strikethrough"<young></del>
-        <add place="superlinear">small</add>
-        <add place="superlinear" rend="strikethrough">small</add>
-        <del rend="strikethrough">?</del>
+        </mod>
+    </line>
+    <line rend="indent1">
+        <mod>
+            <del rend="strikethrough">Dissolved into thethe living weeds</del>
+            <del rend="strikethrough">Whose Child I</del>
+            <add place="superlinear">Let me</add>think my spirit feeds
+        </mod>
+    </line>
+    <line>Within its
+        <mod>
+            <del rend="strikethrough"<young></del>
+            <add place="superlinear">small</add>
+            <add place="superlinear" rend="strikethrough">small</add>
+            <del rend="strikethrough">?</del>
+        </mod>
         life intense
         <add place="superlinear">&amp; mild</add>
-            </line>
+    </line>
     <line>The <del rend="strikethrough"> grass living</del><add place="superlinear">love</add>of living<del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
 <line>Among these tombs &amp; ruins wild </line>
- <line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
- </zone>
+<line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
+</zone>
  </surface>
