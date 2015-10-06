@@ -75,7 +75,7 @@
     </line>
     <line>Within its
         <mod>
-            <del rend="strikethrough">young></del>
+            <del rend="strikethrough">young</del>
             <add place="superlinear" rend="strikethrough">small</add>
             <add place="superlinear">life</add>
             <del rend="strikethrough">?</del>
