@@ -9,39 +9,6 @@
     <line> With what truth may I say </line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
-    <line>
-        <mod>
-            <del rend="strikethrough">Ruined</del>
-            <del rend="strikethrough">creature</del>
-            <add place="superlinear">My lost William,</add>
-        </mod>
-    thou in whom</line>
-    <line rend="indent1">Some
-        <mod>
-            <del rend="strikethrough">sweet</del>
-            <add place="superlinear">bright</add>
-        </mod>
-    spirit lived, &amp; did</line>
-    <line rend="indent1">That decaying robe consume</line>
-    <line rend="indent2">Which its
-        <mod>
-            <del rend="strikethrough">gentle lus</del>
-            <add place="superlinear">lustre faintly</add>
-        </mod>
-    hid</line>
-    <line rend="indent1">
-        <mod>
-            <del rend="strikethrough">In the</del>
-            <del rend="strikethrough">Thy remains</del>
-        </mod>    
-    </line>
-    <line rend="indent2">Here its ashes find a tomb</line>
-    <line rend="indent3">
-        <mod/>
-            <del rend="strikethrough">Under</del>
-            <add place="superlinear">But be</add>
-        </mod>    
-    neath this pyramid</line>
 </zone>
  </surface>
 
