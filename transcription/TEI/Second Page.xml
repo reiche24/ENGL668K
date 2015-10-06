@@ -40,9 +40,8 @@
         <mod/>
             <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>
-            neath this pyramid
         </mod>    
-    </line>
+    neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="3"/>
     <line rend="indent4">
         <mod>
@@ -52,8 +51,9 @@
         <line>Rest thy bones- there is a shrine</line>
         <line>Fr[om] thy
             <mod>
-                <add place="superlinear"><metamark function="insert">_____________</metamark></add></line>
+                <add place="superlinear"><metamark function="insert">_____________</metamark></add>
             </mod>
+        </line>
 <space dim="vertical" unit="lines" extent="3"/>
     <line>Where art though
         <mod>
