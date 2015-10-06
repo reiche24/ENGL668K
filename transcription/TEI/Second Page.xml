@@ -42,18 +42,6 @@
             <add place="superlinear">But be</add>
         </mod>    
     neath this pyramid</line>
-<space dim="vertical" unit="lines" extent="3"/>
-    <line rend="indent4">
-        <mod>
-            <del rend="strikethrough">Lie thy bones - if thou canst die</del>
-        </mod>
-    </line>
-        <line>Rest thy bones- there is a shrine</line>
-        <line>Fr[om] thy
-            <mod>
-                <add place="superlinear"><metamark function="insert">_____________</metamark></add>
-            </mod>
-        </line>
 </zone>
 </surface>
 
