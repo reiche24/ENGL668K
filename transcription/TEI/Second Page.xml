@@ -68,7 +68,6 @@
     <line rend="indent1">
         <mod>
             <del rend="strikethrough">Dissolved into the living weeds</del>
-            <del rend="strikethrough">
         </mod>
     </line>
     <line>Whose Child I
@@ -89,6 +88,24 @@
             <add place="superlinear">&amp; mild</add>
         </mod>
     </line>
+        <line>The
+        <mod>
+            <del rend="strikethrough"> grass living</del>
+            <add place="superlinear">love</add>
+        </mod>
+        of living
+        <mod>
+            <del rend="strikethrough">flowers</del>
+            <add place="superlinear">leaves</add>
+            <add place="sublinear">and weeds</add>
+        </mod>
+    </line>
+    <line>Among these tombs &amp; ruins wild </line>
+    <line rend="indent1">
+        <mod>
+            <del rend="strikethrough">could I believe that</del>
+        </mod>
+    </line> 
 </zone>
 </surface>
 
