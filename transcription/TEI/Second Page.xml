@@ -69,21 +69,39 @@
         <mod>
             <del rend="strikethrough">Dissolved into thethe living weeds</del>
             <del rend="strikethrough">Whose Child I</del>
-            <add place="superlinear">Let me</add>think my spirit feeds
+            <add place="superlinear">Let me</add>
         </mod>
+    think my spirit feeds
     </line>
     <line>Within its
         <mod>
             <del rend="strikethrough"<young></del>
-            <add place="superlinear">small</add>
             <add place="superlinear" rend="strikethrough">small</add>
+            <add place="superlinear">life</add>
             <del rend="strikethrough">?</del>
         </mod>
         life intense
-        <add place="superlinear">&amp; mild</add>
+        <mod>
+            <add place="superlinear">&amp; mild</add>
+        </mod>
     </line>
-    <line>The <del rend="strikethrough"> grass living</del><add place="superlinear">love</add>of living<del rend="strikethrough">flowers</del><add place="superlinear">leaves</add><add place="sublinear">and weeds</add></line>
-<line>Among these tombs &amp; ruins wild </line>
-<line rend="indent1"><del rend="strikethrough">could I believe that</del></line> 
+    <line>The
+        <mod>
+            <del rend="strikethrough"> grass living</del>
+            <add place="superlinear">love</add>
+        </mod>
+        of living
+        <mod>
+            <del rend="strikethrough">flowers</del>
+            <add place="superlinear">leaves</add>
+            <add place="sublinear">and weeds</add>
+        </mod>
+    </line>
+    <line>Among these tombs &amp; ruins wild </line>
+    <line rend="indent1">
+        <mod>
+            <del rend="strikethrough">could I believe that</del>
+        </mod>
+    </line> 
 </zone>
  </surface>
