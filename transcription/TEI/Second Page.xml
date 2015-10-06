@@ -6,13 +6,22 @@
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     
 <zone type="main">
-<line> With what truth may I say </line>
+    <line> With what truth may I say </line>
     <line rend="indent1">Roma Roma Roma</line>
     <line>Non e piu, come era prima</line>
-    <line><mod><del rend="strikethrough">Ruined</del></mod><mod><del rend="strikethrough">creature</del></mod>
-        <mod><add place="superlinear">My lost William,</add></mod>thou in whom</line>
-    <line rend="indent1">Some<del rend="strikethrough">sweet</del><mod>
-        <add place="superlinear">bright</add>spirit lived, &amp; did</mod></line>
+    <line>
+        <mod>
+            <del rend="strikethrough">Ruined</del>
+            <del rend="strikethrough">creature</del>
+            <add place="superlinear">My lost William,</add>
+        </mod>
+    thou in whom</line>
+    <line rend="indent1">Some
+        <mod>
+            <del rend="strikethrough">sweet</del>
+            <add place="superlinear">bright</add>
+        </mod>
+    spirit lived, &amp; did</line>
     <line rend="indent1">That decaying robe consume</line>
     <line rend="indent2">Which its<del rend="strikethrough">gentle lus</del>
         <add place="superlinear">lustre faintly</add>hid</line>
