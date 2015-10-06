@@ -13,8 +13,7 @@
             <persName>black-ink</persName></handNote>
     </handDesc>
 </physDesc>
-    
-<zone type="main">
+    <zone type="main">
 <handShift medium="brown-ink" new="#pbs"/>
   <line><del rend="strikethrough">A melancholy gladness</del></line>
   <line>Let me think that thro low seeds</line>
