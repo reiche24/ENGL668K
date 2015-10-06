@@ -8,9 +8,9 @@
 <physDesc>
     <handDesc>
         <handShift xml:id="pbs">
-            <handName>brown-ink</handName></handShift>
+            <persName>brown-ink</persName></handShift>
         <handShift> xml:id="pbs1">
-            <handName>black-ink</handName></handShift>
+            <persName>black-ink</persName></handShift>
     </handDesc>
 </physDesc>
     
