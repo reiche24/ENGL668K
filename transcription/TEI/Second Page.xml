@@ -7,6 +7,21 @@
     
 <zone type="main">
     <line>With what truth may I say</line>
+    <line rend="indent1">Roma Roma Roma</line>
+    <line>Non e piu, come era prima</line>
+    <line>
+        <mod>
+            <del rend="strikethrough">Ruined</del>
+            <del rend="strikethrough">creature</del>
+            <add place="superlinear">My lost William,</add>
+        </mod>
+    thou in whom</line>
+    <line rend="indent1">Some
+        <mod>
+            <del rend="strikethrough">sweet</del>
+            <add place="superlinear">bright</add>
+        </mod>
+    spirit lived, &amp; did</line>
 </zone>
 </surface>
 
