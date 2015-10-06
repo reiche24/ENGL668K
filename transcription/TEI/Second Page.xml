@@ -30,18 +30,6 @@
         </mod>
     hid</line>
     <line rend="indent1">
-        <mod>
-            <del rend="strikethrough">In the</del>
-            <del rend="strikethrough">Thy remains</del>
-        </mod>    
-    </line>
-    <line rend="indent2">Here its ashes find a tomb</line>
-    <line rend="indent3">
-        <mod/>
-            <del rend="strikethrough">Under</del>
-            <add place="superlinear">But be</add>
-        </mod>    
-    neath this pyramid</line>
 </zone>
 </surface>
 
