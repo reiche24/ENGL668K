@@ -37,7 +37,7 @@
     </line>
     <line rend="indent2">Here its ashes find a tomb</line>
     <line rend="indent3">
-        <mod/>
+        <mod>
             <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>
         </mod>    
