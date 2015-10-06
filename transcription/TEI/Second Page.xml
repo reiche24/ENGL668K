@@ -68,7 +68,11 @@
     <line rend="indent1">
         <mod>
             <del rend="strikethrough">Dissolved into the living weeds</del>
-            <del rend="strikethrough">Whose Child I</del>
+            <del rend="strikethrough">
+        </mod>
+    </line>
+    <line>Whose Child I
+        <mod>
             <add place="superlinear">Let me</add>
         </mod>
     think my spirit feeds
