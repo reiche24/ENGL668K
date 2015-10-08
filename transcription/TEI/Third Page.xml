@@ -4,9 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-<zone type="library">
-    <line>*46v.</line>
-</zone>
+<zone type="pagination"><line>*46v.</line></zone>
     
 <zone type="main">
   <line><del rend="strikethrough">A melancholy gladness</del></line>
