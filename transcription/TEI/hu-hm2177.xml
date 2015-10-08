@@ -45,8 +45,8 @@
         </fileDesc>
     </teiHeader>
     <sourceDoc>
-        <xi:include href="hu-hm2177-fb045v.xml" />
-        <xi:include href="hu-hm2177-fb046r.xml" />
-        <xi:include href="hu-hm2177-fb046v.xml" />
+        <xi:include href="First Page" />
+        <xi:include href="Second Page" />
+        <xi:include href="Third Page" />
     </sourceDoc>
 </TEI>
