@@ -7,7 +7,6 @@
 
     
 <zone type="main">
-<handShift medium="brown-ink" new="#pbs"/>
   <line><del rend="strikethrough">A melancholy gladness</del></line>
   <line>Let me think that thro low seeds</line>
   <line>Of the
@@ -22,7 +21,6 @@
   <line>Into these hues &amp; scents may pass</line>
   <line>A portion</line>
   <space dim="vertical" unit="lines" extent="1"/>
-  <handShift medium="black-ink" new="pbs1"/>
   <line>Originality does not consist</line>
   <line><del rend="strikethrough">In words &amp; names, or stories</del></line>
   <line>Or combinations of metre &amp;</line>
