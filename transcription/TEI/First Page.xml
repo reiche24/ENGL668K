@@ -5,7 +5,7 @@
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
 
-<zone type="library">
+<zone type="pagination">
     <line>*45v.</line>
 </zone>
 <zone type="left_margin" rotate="90">
