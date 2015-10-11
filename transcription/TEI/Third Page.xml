@@ -7,7 +7,6 @@
 <zone type="pagination"><line>*46v.</line></zone>
     
 <zone type="main">
-    
   <line>Originality does not await</line>
   <line><del rend="strikethrough">In words &amp;</del><del rend="strikethrough"> names, or stories</del></line>
   <line>Or combinations of metre &amp;</line>
@@ -15,9 +14,7 @@
   <line>which have come before, it</line>
   <line>does not consist only in avoid<unclear reason="smear">ing</unclear></line>
   <line>a resemblance</line>
-  
   <space dim="vertical" unit="lines" extent="1"/>
-    
   <line><del rend="strikethrough">A melancholy gladness</del></line>
   <line>Let me think that thro low seeds</line>
   <line>Of the
@@ -31,6 +28,5 @@
   <line><del rend="strikethrough">An unknown horror may</del></line>
   <line>Into these hands of saints may pass</line>
   <line>A portion</line>
-  
-   </zone>
+ </zone>
 </surface>
