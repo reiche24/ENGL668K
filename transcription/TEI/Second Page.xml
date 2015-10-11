@@ -12,9 +12,9 @@
     <line>Non e piu, come era prima</line>
     <line>
         <mod>
+            <add place="superlinear">My lost William,</add>
             <del rend="strikethrough">Ruined</del>
             <del rend="strikethrough">creature</del>
-            <add place="superlinear">My lost William,</add>
         </mod>
     thou in whom</line>
     <line rend="indent1">Some
