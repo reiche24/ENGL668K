@@ -19,15 +19,15 @@
     thou in whom</line>
     <line rend="indent1">Some
         <mod>
-            <del rend="strikethrough">sweet</del>
             <add place="superlinear">bright</add>
+            <del rend="strikethrough">sweet</del>
         </mod>
     spirit lived, &amp; did</line>
     <line rend="indent1">That decaying robe consume</line>
     <line rend="indent2">Which its
         <mod>
-            <del rend="strikethrough">gentle lus</del>
             <add place="superlinear">lustre faintly</add>
+            <del rend="strikethrough">gentle lus</del>
         </mod>
     hid</line>
     <line rend="indent1">
@@ -39,8 +39,8 @@
     <line rend="indent2">Here its ashes find a tomb</line>
     <line rend="indent3">
         <mod>
-            <del rend="strikethrough">Under</del>
             <add place="superlinear">But be</add>
+            <del rend="strikethrough">Under</del>
         </mod>    
     neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="3"/>
