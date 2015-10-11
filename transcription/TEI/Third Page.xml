@@ -7,6 +7,17 @@
 <zone type="pagination"><line>*46v.</line></zone>
     
 <zone type="main">
+    
+  <line>Originality does not consist</line>
+  <line><del rend="strikethrough">In words &amp;</del><del rend="strikethrough">names, or stories</del></line>
+  <line>Or combinations of metre &amp;</line>
+  <line>language different from those</line>
+  <line>which have gone before, it</line>
+  <line>does not consist only in avoid<unclear reason="smear">ing</unclear></line>
+  <line>a resemblance</line>
+  
+  <space dim="vertical" unit="lines" extent="1"/>
+    
   <line><del rend="strikethrough">A melancholy gladness</del></line>
   <line>Let me think that thro low seeds</line>
   <line>Of the
@@ -20,12 +31,6 @@
   <line><del rend="strikethrough">An unknown power may</del></line>
   <line>Into these hues &amp; scents may pass</line>
   <line>A portion</line>
-  <space dim="vertical" unit="lines" extent="1"/>
-  <line>Originality does not consist</line>
-  <line><del rend="strikethrough">In words &amp; names, or stories</del></line>
-  <line>Or combinations of metre &amp;</line>
-  <line>language different from those</line>
-  <line>which have gone before, it</line>
-  <line>does not consist only in avoid<unclear reason="smear">ing</unclear> a resemblance</line>
-</zone>
+  
+   </zone>
 </surface>
