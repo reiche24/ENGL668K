@@ -23,12 +23,12 @@
   <line>Of the
     <mod>
         <del rend="strikethrough">living</del>
-        <add place="sublinear">sweet</add>
+        <add place="sublinear">sweet flowers</add>
         <del rend="strikethrough">breathing</del>
-        <add place="sublinear">flowers &amp; sunny grass</add>
+        <add place="sublinear">&amp; sunny grass</add>
     </mod>
     </line>
-  <line><del rend="strikethrough">An unknown power may</del></line>
+  <line><del rend="strikethrough">An unknown horror may</del></line>
   <line>Into these hues &amp; scents may pass</line>
   <line>A portion</line>
   
