@@ -23,34 +23,34 @@
             <del rend="strikethrough">sweet</del>
         </mod>
     spirit lived, &amp; did</line>
-    <line rend="indent1">That decaying robe consume</line>
-    <line rend="indent2">Which its
+    <line>That decaying robe consume</line>
+    <line rend="indent1">Which its
         <mod>
             <add place="superlinear">lustre faintly</add>
             <del rend="strikethrough">gentle lus</del>
         </mod>
     hid</line>
-    <line rend="indent2">
+    <line rend>
         <mod>
             <del rend="strikethrough">In the</del>
             <del rend="strikethrough">Thy remains</del>
         </mod>    
     </line>
-    <line rend="indent3">Here its ashes find a tomb</line>
-    <line rend="indent3">
+    <line rend="indent1">Here its ashes find a tomb</line>
+    <line rend="indent2">
         <mod>
             <add place="superlinear">But be</add>
             <del rend="strikethrough">Under</del>
         </mod>    
     neath this pyramid</line>
 <space dim="vertical" unit="lines" extent="3"/>
-    <line rend="indent4">
+    <line rend="indent1">
         <mod>
             <del rend="strikethrough">Lie thy bones - if thou canst die</del>
         </mod>
     </line>
-        <line rend="indent4">Rest thy bones- there is a shrine</line>
-        <line rend="indent4">Fr[om] thy
+        <line rend="indent2">Rest thy bones- there is a shrine</line>
+        <line rend="indent2">Fr[om] thy
             <mod>
                 <add place="superlinear">_____________</add>
             </mod>
