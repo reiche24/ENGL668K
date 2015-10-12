@@ -17,9 +17,9 @@
     <line>Like thee, can die -- thy funeral shrine</line>
     <line>Is thy mother's
         <mod>
-            <del rend="strikethrough">heart</del>
             <add place="sublinear">grief</add>
             <add place="superlinear">heart</add>
+            <del rend="strikethrough">heart</del>
             &amp; mine
         </mod>
     </line>
