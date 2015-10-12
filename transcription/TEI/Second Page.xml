@@ -30,13 +30,13 @@
             <del rend="strikethrough">gentle lus</del>
         </mod>
     hid</line>
-    <line rend="indent1">
+    <line rend="indent2">
         <mod>
             <del rend="strikethrough">In the</del>
             <del rend="strikethrough">Thy remains</del>
         </mod>    
     </line>
-    <line rend="indent2">Here its ashes find a tomb</line>
+    <line rend="indent3">Here its ashes find a tomb</line>
     <line rend="indent3">
         <mod>
             <add place="superlinear">But be</add>
@@ -49,8 +49,8 @@
             <del rend="strikethrough">Lie thy bones - if thou canst die</del>
         </mod>
     </line>
-        <line>Rest thy bones- there is a shrine</line>
-        <line>Fr[om] thy
+        <line rend="indent4">Rest thy bones- there is a shrine</line>
+        <linerend="indent4">Fr[om] thy
             <mod>
                 <add place="superlinear">_____________</add>
             </mod>
