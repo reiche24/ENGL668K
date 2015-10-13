@@ -84,9 +84,9 @@
         </mod>
         of living
         <mod>
-            <add place="superlinear">leaves</add>
             <add place="sublinear">and weeds</add>
             <del rend="strikethrough">flowers</del>
+            <add place="superlinear">leaves</add>
         </mod>
     </line>
     <line>Among these tombs &amp; ruins wild </line>
