@@ -63,9 +63,10 @@
             <del rend="strikethrough">Dissolved into the living weeds</del>
         </mod>
     </line>
-    <line>Whose Child I
+    <line>
         <mod>
             <add place="superlinear">Let me</add>
+            <del rend="strikethrough">Whose Child I</del>
         </mod>
     think my spirit feeds
     </line>
