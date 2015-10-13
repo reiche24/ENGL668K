@@ -19,10 +19,12 @@
   <line>Let me think that thro low seeds</line>
   <line>Of the
     <mod>
-        <del rend="strikethrough">living</del>
         <add place="sublinear">sweet flowers</add>
-        <del rend="strikethrough">breathing</del>
+        <del rend="strikethrough">living</del>
+    </mod>
+    <mod>
         <add place="sublinear">&amp; sunny grass</add>
+        <del rend="strikethrough">breathing</del>
     </mod>
     </line>
   <line><del rend="strikethrough">An unknown horror may</del></line>
